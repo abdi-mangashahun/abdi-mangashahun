@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**abdi-mangashahun/abdi-mangashahun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, my name is Abdi Gashahun
 
-Here are some ideas to get you started:
+🙋‍♂️ About me profile view count
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm from the Nekemt 🇺🇸, currently in Adama University 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found lifting weights 🏋️, and spending time with my friends ❤️.
+
+🔭 I'm currently working on amazing charbot
+
+🌱 I’m currently learning Software Enginer
+
+🔨 I've contributed to nothing for now
+
+✍️ I've written about react not that much
+
+📫 How to reach me just email me : abdigashahun0@gmail.com
